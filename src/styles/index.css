@@ -1,12 +1,12 @@
-
-/* 
-
-    You can write your own styles here...
+.titulo{
+    font-size: 100px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color:pink;
     
-    
-    ...Or you can use the import command to include 
-    other sylesheets into your bunde as well, e.j:
-    
-    import 'relative/path/to/stylesheet.scss';
+}
 
-*/
+.footer{
+    font-size: small;
+    display: flex;
+    color: grey; 
+}
